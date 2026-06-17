@@ -111,7 +111,7 @@ Esse resultado sugere que as relações entre as variáveis analisadas e o baixo
 
 ### Distribuição da Média Geral
 
-![Distribuição](figuras/distribuicao_media.png)
+![Distribuição](figuras/distribuicao_media-2.png)
 
 ---
 
