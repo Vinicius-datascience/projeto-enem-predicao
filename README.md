@@ -117,7 +117,7 @@ Esse resultado sugere que as relações entre as variáveis analisadas e o baixo
 
 ### Relação entre Renda Familiar e Média Geral
 
-![Renda Familiar](figuras/renda_familiar_boxplot.png)
+![Renda Familiar](figuras/relacao_media.png)
 
 ---
 
